@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Archer.png</file>
+        <file>Arrow.png</file>
+        <file>Archer_Step_1.png</file>
+        <file>Archer_Step_2.png</file>
+        <file>SnowRoad.png</file>
+    </qresource>
+    <qresource prefix="/music"/>
+</RCC>
